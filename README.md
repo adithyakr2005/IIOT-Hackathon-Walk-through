@@ -1,4 +1,4 @@
-# IIOT-Hackathon-Walk-through-(A Project using Arduino)
+# IIOT-Hackathon-Walk-through-(A Project using Raspberry Pi)
 *** Project Requirements***
 Raspberry pi
 Breadboard
